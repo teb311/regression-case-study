@@ -1,0 +1,4 @@
+data/*.zip
+data/**.csv
+data/*.csv
+*.pyc
